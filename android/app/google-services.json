@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562523426152",
+    "project_id": "camera-upload-ec6fe",
+    "storage_bucket": "camera-upload-ec6fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562523426152:android:71698d17c375ac67c05add",
+        "android_client_info": {
+          "package_name": "com.example.camera_upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562523426152-qichu73nknstusqlsnuuq7u94r96gpgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjt6es7f3GrA11IREWnvHjPsFseOoDfaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562523426152-qichu73nknstusqlsnuuq7u94r96gpgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
